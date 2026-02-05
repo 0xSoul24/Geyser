@@ -48,7 +48,7 @@ mockito = "5.+"
 
 # plugin versions
 indra = "4.0.0"
-shadow = "9.2.2"
+shadow = "9.3.1"
 architectury-plugin = "3.4.162"
 architectury-loom = "1.13.457"
 loom-companion = "1.13.467"

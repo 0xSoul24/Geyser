@@ -78,7 +78,7 @@ dependencies {
     }
 
     // Test
-    testImplementation(platform("org.junit:junit-bom:6.0.0"))
+    testImplementation(platform("org.junit:junit-bom:6.0.3"))
     testImplementation(libs.junit)
     testImplementation(libs.gson.runtime) // Record support
     testImplementation(libs.mockito)
